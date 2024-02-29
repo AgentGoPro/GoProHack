@@ -6,11 +6,7 @@ Gopro Client is a PRIVATE client made by Jacobtime
 <p align="center">
 
 
-<div align="center">
-  <a href="https://discord.gg/QjfBxJzE5x"><img src="https://invidget.switchblade.xyz/QjfBxJzE5x" alt="Link to the lambda discord server https://discord.gg/QjfBxJzE5x"></a>
-</div>
 
-Find our matrix space at [#lambda-client:matrix.org](https://app.element.io/#/room/#lambda-client:matrix.org).
 
 ## Installation
 1. Install Minecraft 1.12.2
