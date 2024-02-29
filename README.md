@@ -2,11 +2,9 @@
 
 Gopro Client is a PRIVATE client made by Jacobtime
 
-Find our plugins [here](https://github.com/lambda-plugins).
 
 <p align="center">
-    <a href="https://github.com/lambda-client/lambda/releases/download/3.4.0/lambda-3.4.0.jar"><img alt="lambda-3.4.0.jar" src="https://raw.githubusercontent.com/lambda-client/assets/main/download_button_3.4.0.png" width="70%" height="70%"></a>
-</p>
+
 
 <div align="center">
   <a href="https://discord.gg/QjfBxJzE5x"><img src="https://invidget.switchblade.xyz/QjfBxJzE5x" alt="Link to the lambda discord server https://discord.gg/QjfBxJzE5x"></a>
