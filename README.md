@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/lambda-client/assets/main/lambda%20logo%20text.svg" style="width: 69%" alt="logo">
-</p>
+
 
 Gopro Client is a PRIVATE client made by Jacobtime
 
