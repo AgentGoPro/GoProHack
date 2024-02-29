@@ -2,16 +2,7 @@
     <img src="https://raw.githubusercontent.com/lambda-client/assets/main/lambda%20logo%20text.svg" style="width: 69%" alt="logo">
 </p>
 
-![GitHub all releases](https://img.shields.io/github/downloads/lambda-client/lambda/total?color=seagreen)
-![CodeFactor grade](https://img.shields.io/codefactor/grade/github/lambda-client/lambda?color=royalblue)
-![GitHub workflow status](https://img.shields.io/github/actions/workflow/status/lambda-client/lambda/nightly_build.yml?branch=master&logo=gradle)
-[![Discord](https://img.shields.io/discord/834570721070022687?color=skyblue&logo=discord&logoColor=white)](https://discord.gg/QjfBxJzE5x)
-![GitHub repo size](https://img.shields.io/github/repo-size/lambda-client/lambda)
-![Lines of code](https://img.shields.io/tokei/lines/github/lambda-client/lambda?color=lightcoral&label=lines%20of%20code)
-
-Lambda is a free, open-source, Minecraft 1.12.2 utility mod made for the anarchy experience.
-A visionary plugin system that allows additional modules to be added, without the need to create a fork!
-Customize your experience, and improve your efficiency!
+Gopro Client is a PRIVATE client made by Jacobtime
 
 Find our plugins [here](https://github.com/lambda-plugins).
 
